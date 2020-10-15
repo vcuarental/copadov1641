@@ -1,0 +1,269 @@
+[
+    [
+        "/app/dxProject/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872948,
+            "changeTime": 1602764872948,
+            "contentHash": "9d8fcb73c23be02293e7983d643d065f309dcb92"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862696,
+            "changeTime": 1602764862696,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package/main",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "f0f7f39ec7e62249ee81dac2c3f1b3586a4fd52e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package/main/objects",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package/main/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package/main/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package/main/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package/main/objects/Account/fields",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package/main/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "1186c99aa01f1fe9087060ab87ac29a58624a4a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/Parent_Unlocked_package/main/objects/Account/fields/Account_Autonumber__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject/Parent_Unlocked_package/main/objects/Account/fields/Account_Autonumber__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1602764862700,
+            "changeTime": 1602764862700,
+            "contentHash": "9df437d0735ba138eb87be67e60a5150548a035f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject",
+        {
+            "state": "n",
+            "sourcePath": "/app/dxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764864444,
+            "changeTime": 1602764864444,
+            "contentHash": "890d9e0d1a438d1ca323d3dbb6002a632605dfb0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/objects/Account/fields/Account_checkbox__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/objects/Account/fields/Account_checkbox__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 344,
+            "modifiedTime": 1602764872924,
+            "changeTime": 1602764872924,
+            "contentHash": "ac01e4e5cb13e032a55d04cf13dc5dafbabaa766"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7627,
+            "modifiedTime": 1602764872932,
+            "changeTime": 1602764872932,
+            "contentHash": "7a9dcacefd9108e7fcffea19f554cd157ae74f30"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20017,
+            "modifiedTime": 1602764872956,
+            "changeTime": 1602764872956,
+            "contentHash": "476145cbf350b39d36a55a9c262d624592924e7e"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872924,
+            "changeTime": 1602764872924,
+            "contentHash": "6196befca109d54d79f149ecad2d2556c99ff1b5"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872924,
+            "changeTime": 1602764872924,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872924,
+            "changeTime": 1602764872924,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872932,
+            "changeTime": 1602764872932,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1602764872956,
+            "changeTime": 1602764872956,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
