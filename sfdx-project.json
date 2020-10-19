@@ -4,7 +4,7 @@
     "path" : "force-app",
     "default" : true
   }, {
-    "path" : "DKMS_UnlockedPackage",
+    "path" : "Parent_Unlocked_package",
     "default" : false
   } ],
   "sourceApiVersion" : "48.0",
