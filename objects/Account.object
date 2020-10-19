@@ -238,6 +238,13 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Account_Autonumber_2__c</fullName>
+        <displayFormat>AA2-{0000000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Account Autonumber 2</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Account_Autonumber__c</fullName>
         <displayFormat>AA-{000000}</displayFormat>
         <externalId>false</externalId>
