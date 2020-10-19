@@ -1,0 +1,12 @@
+{
+  "namespace" : "",
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true
+  }, {
+    "path" : "DKMS-German-Package",
+    "default" : false
+  } ],
+  "sourceApiVersion" : "48.0",
+  "sfdcLoginUrl" : "https://login.salesforce.com"
+}
