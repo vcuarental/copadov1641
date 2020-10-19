@@ -256,6 +256,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Autonumber__c</fullName>
+        <displayFormat>A-{0000000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Autonumber</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>BillingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
