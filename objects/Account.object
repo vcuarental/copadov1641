@@ -256,6 +256,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Autonumber_2__c</fullName>
+        <displayFormat>AA-{00000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Autonumber 2</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Autonumber__c</fullName>
         <displayFormat>A-{0000000}</displayFormat>
         <externalId>false</externalId>
