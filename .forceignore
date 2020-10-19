@@ -1,0 +1,72 @@
+
+maxDepth: 0
+queries:
+  - AttributeAssignmentRule
+  - AttributeCategory
+  - CalculationMatrix
+  - CalculationMatrixVersion
+  - CalculationProcedure
+  - Catalog
+  - ContextAction
+  - ContextDimension
+  - ContextScope
+  - ContractType
+  - DataRaptor
+  - DocumentClause
+  - DocumentTemplate
+  - EntityFilter
+  - IntegrationProcedure
+  - InterfaceImplementation
+  - ItemImplementation
+  - ManualQueue
+  - ObjectClass
+  - ObjectContextRule
+  - ObjectLayout
+  - OmniScript
+  - OrchestrationDependencyDefinition
+  - OrchestrationItemDefinition
+  - OrchestrationPlanDefinition
+  - Pricebook2
+  - PriceList
+  - PricingPlan
+  - PricingVariable
+  - Product2
+  - Promotion
+  - QueryBuilder
+  - Rule
+  - StoryObjectConfiguration
+  - System
+  - TimePlan
+  - TimePolicy
+  - UIFacet
+  - UISection
+  - VlocityAttachment
+  - VlocityAction
+  - VlocityCard
+  - VlocityFunction
+  - VlocityPicklist
+  - VlocitySearchWidgetSetup
+  - VlocityStateModel
+  - VlocityUILayout
+  - VlocityUITemplate
+  - VqMachine
+  - VqResource
+
+projectPath: ${projectPath}
+expansionPath: vlocity
+
+#
+sf.sessionId = ${sid}
+sf.instanceUrl = ${instanceUrl}
+vlocity.dataPacksJobFolder = ${jobsFolder}
+# List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
+# LWC configuration files
+projectPath: ${projectPath}
+expansionPath: vlocity
+manifest: ${manifest}
+# More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
+# LWC Jest
+package.xml
+**/jsconfig.json
+**/.eslintrc.json
+**/__tests__/**
