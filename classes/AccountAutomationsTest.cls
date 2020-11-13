@@ -1,7 +1,7 @@
 @IsTest
 private class AccountAutomationsTest {
 
-    @isTest static void testDefaultDescription(){
+    @isTest static void testDefaultDescription(){//Comment
         Account acc = new Account(Name = 'My Test Account');
         insert acc;
         acc = AccountAutomations.setDefaultDescription(acc);
